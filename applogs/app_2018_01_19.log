@@ -1,0 +1,93 @@
+Entered into login
+success to log in
+[2018-Jan-19 10:19] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 10:19] anu 127.0.0.1 GET http /home? 200 OK
+Entered into home
+[2018-Jan-19 10:19] anu 127.0.0.1 GET http /home? 302 FOUND
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-19 11:04] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 11:04] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 11:51] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 11:51] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+success to log in
+[2018-Jan-19 11:51] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 11:51] anu 127.0.0.1 GET http /home? 302 FOUND
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-19 12:07] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 12:07] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 12:20] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 12:20] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+success to log in
+[2018-Jan-19 12:20] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 12:20] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 14:42] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 14:42] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+Entered into login
+[2018-Jan-19 14:58] anu 127.0.0.1 GET http /? 200 OK
+success to log in
+[2018-Jan-19 14:58] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 14:58] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 15:02] anu 127.0.0.1 GET http /? 200 OK
+Entered into login
+[2018-Jan-19 15:02] anu 127.0.0.1 GET http /? 200 OK
+success to log in
+[2018-Jan-19 15:02] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 15:02] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 15:05] anu 127.0.0.1 GET http /? 200 OK
+Entered into login
+[2018-Jan-19 15:05] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 15:05] anu 127.0.0.1 GET http /static/images/td-fav.ico? 200 OK
+success to log in
+[2018-Jan-19 15:05] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 15:05] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 15:29] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 15:29] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+failed to log in
+[2018-Jan-19 15:29] anu 127.0.0.1 POST http /? 200 OK
+Entered into login
+[2018-Jan-19 15:29] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 15:29] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+success to log in
+[2018-Jan-19 15:29] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 15:29] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 15:32] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 15:32] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+Entered into login
+[2018-Jan-19 15:32] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 15:32] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+success to log in
+[2018-Jan-19 15:32] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 15:32] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 15:35] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 15:35] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+Entered into login
+[2018-Jan-19 15:37] anu 127.0.0.1 GET http /? 200 OK
+[2018-Jan-19 15:37] anu 127.0.0.1 GET http /static/css/bootstrap.min.css.map? 200 OK
+success to log in
+[2018-Jan-19 15:37] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-19 15:37] anu 127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-19 15:55] anu 127.0.0.1 GET http /? 200 OK

@@ -1,0 +1,4 @@
+id,user_id,upload_id,upload_category,upload_subcategory,upload_name,upload_modelno,upload_brand,upload_warranty,upload_pieceperCarton,upload_minimumOrder,upload_netWeight,upload_mrp,upload_price,discount,upload_discount,tax,upload_tax,upload_netPrice,upload_hsncode,upload_locations
+59e199805ba9450f82e477f4,59e0c06c5ba9450e5d5ed9ab,125456,PowerTools,AngleGrinder,Rotary Hammer ,GST245,makita,6,8,2,1.500,1500,1155.00,GSTOFF,23.00,GST1-1,5.00,1212.75,85236547,Hyderabad
+59e1bdfb5ba9450f82e477fa,59e086fb5ba9450e5d5ed992,1215,AirTools,AirCompressor,ANGLE GRINDER 4,1234,compressor,12,7,4,2.000,1000,600.00,DiwaliSale,40.00,GST4-28,28.00,768.00,99874565,Hyderabad
+59e5e652b2d1522394afb8a7,59e060d75ba9450ee6353831,6768,WeldingTools,ArcWeldingMachine,yhiuy,8969876,powertex,6,876,866,68.000,57578,31667.90,xmas,45.00,GST2-12,12.00,35468.05,68976896,Hyderabad

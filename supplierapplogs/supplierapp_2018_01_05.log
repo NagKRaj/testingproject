@@ -1,0 +1,797 @@
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/chat.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/files-box.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/login-box.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/todo.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/applications/mailbox.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/default.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen-demo.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/tether/js/tether.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /adminpurchaseinvoiceinfo/? 404 NOT FOUND
+[2018-Jan-05 13:23] Sai Kumar 127.0.0.1 GET http /favicon.ico? 404 NOT FOUND
+Supplier  Entered into Purchase List
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /admin_purchaselist? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/grid.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/animate.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/spacing.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/typography.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/utils.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/colors.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/badges.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/buttons.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/content-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/images.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/forms.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/info-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/invoice.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/menus.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/panel-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/response-messages.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/ribbon.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tables.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/social-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tile-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/elements/timeline.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/chat.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/files-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/login-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/todo.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/applications/mailbox.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/default.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen-demo.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/tether/js/tether.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 200 OK
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+ Supplier Entered into Purchase Information
+Supplier Entered into admin_purchaseinvoice
+[2018-Jan-05 13:31] Sai Kumar 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+[2018-Jan-05 13:32] Sai Kumar 127.0.0.1 GET http /adminpurchaseinformation/5a4e160f5ba9450cb304b064? 200 OK
+Supplier Entered into admin_purchaseinvoice
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/animate.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/grid.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/spacing.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/typography.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/utils.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/colors.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/badges.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/buttons.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/content-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/forms.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/images.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/info-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/invoice.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/menus.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/panel-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/response-messages.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/ribbon.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/social-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tables.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tile-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/elements/timeline.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/chat.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/files-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/login-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/todo.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/applications/mailbox.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/default.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen-demo.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/tether/js/tether.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 200 OK
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Purchase-Manager Entered into adminpurchaseinvoiceinfo
+[2018-Jan-05 13:34] Sai Kumar 127.0.0.1 GET http /adminpurchaseinvoiceinfo/5a4e16c75ba9450d89f0bbd6? 200 OK
+Purchase-Manager Entered into adminpurchaseinvoiceinfo
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /adminpurchaseinvoiceinfo/5a4e16c75ba9450d89f0bbd6? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/animate.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/grid.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/spacing.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/typography.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/utils.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/colors.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/badges.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/content-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/buttons.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/forms.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/images.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/info-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/invoice.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/menus.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/panel-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/response-messages.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/ribbon.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/social-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tables.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tile-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/elements/timeline.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/files-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/chat.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/login-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/todo.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/applications/mailbox.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/default.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/tether/js/tether.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 200 OK
+[2018-Jan-05 13:49] Sai Kumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Supplier Entered into Product List
+Supplier Entered into Product List
+[2018-Jan-05 13:55] Sai Kumar 127.0.0.1 GET http /productlist? 200 OK
+Supplier Entered into Product Viewmore
+[2018-Jan-05 13:55] Sai Kumar 127.0.0.1 GET http /productviewmore/5a4db357316cec11bcb31458? 200 OK
+Supplier Entered into Product List
+[2018-Jan-05 13:59] Sai Kumar 127.0.0.1 GET http /productlist? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Jan-05 14:01] PowerTools 127.0.0.1 GET http /supplier_dashboard/5a375f85534ade0b3f2b7985? 200 OK
+[2018-Jan-05 14:01] PowerTools 127.0.0.1 GET http /supplier_upload? 200 OK
+[2018-Jan-05 14:02] PowerTools 127.0.0.1 POST http /catsubatr_post?catname=Abrasives 301 MOVED PERMANENTLY
+[2018-Jan-05 14:02] PowerTools 127.0.0.1 GET http /catsubatr_post/?catname=Abrasives 200 OK
+[2018-Jan-05 14:02] PowerTools 127.0.0.1 POST http /attribute_post?catname=Abrasives&subcatname=Cutting%20Wheels 301 MOVED PERMANENTLY
+[2018-Jan-05 14:02] PowerTools 127.0.0.1 GET http /attribute_post/?catname=Abrasives&subcatname=Cutting%20Wheels 200 OK
+Supplier Upload Product Sucessfully
+[2018-Jan-05 14:02] PowerTools 127.0.0.1 POST http /supplier_upload? 200 OK
+[2018-Jan-05 14:02] PowerTools 127.0.0.1 GET http /favicon.ico? 404 NOT FOUND
+Supplier Entered into Product List
+[2018-Jan-05 14:02] PowerTools 127.0.0.1 GET http /productlist? 200 OK
+Supplier Entered into Product List
+[2018-Jan-05 14:03] PowerTools 127.0.0.1 GET http /productlist? 200 OK
+[2018-Jan-05 14:03] PowerTools 127.0.0.1 GET http /productdelete?type=em&docid=5a4f38269416c90bd482c2de 301 MOVED PERMANENTLY
+Deleted Product sucessfully
+[2018-Jan-05 14:03] PowerTools 127.0.0.1 GET http /productdelete/?type=em&docid=5a4f38269416c90bd482c2de 302 FOUND
+Supplier Entered into Product List
+[2018-Jan-05 14:03] PowerTools 127.0.0.1 GET http /productlist? 200 OK
+Supplier Entered into Product List
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /productlist? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/grid.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/animate.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/spacing.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/typography.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/utils.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/colors.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/badges.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/buttons.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/content-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/forms.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/images.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/info-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/invoice.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/menus.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/panel-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/response-messages.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/ribbon.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/social-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/tables.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/tile-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/elements/timeline.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/snippets/chat.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/snippets/files-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/snippets/login-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/snippets/todo.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/applications/mailbox.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/themes/components/default.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/chosen/chosen-demo.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/tether/js/tether.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 200 OK
+[2018-Jan-05 15:03] PowerTools 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Jan-05 15:04] PowerTools 127.0.0.1 GET http /supplier_dashboard/5a375f85534ade0b3f2b7985? 200 OK
+[2018-Jan-05 15:04] PowerTools 127.0.0.1 GET http /supplier_upload? 200 OK
+Entered into Bulk Products upload
+[2018-Jan-05 15:04] PowerTools 127.0.0.1 GET http /bulkupload? 200 OK
+Supplier Entered into Product List
+[2018-Jan-05 15:04] PowerTools 127.0.0.1 GET http /productlist? 200 OK
+[2018-Jan-05 15:04] PowerTools 127.0.0.1 GET http /admin_purchaselist? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Python27\lib\site-packages\flask_login.py", line 792, in decorated_view
+    return func(*args, **kwargs)
+  File "supplierapp.py", line 382, in admin_purchaselist
+    purchase=PurchaseOrders.objects(supplier_id=sup[0].user_id)
+  File "C:\Python27\lib\site-packages\mongoengine\queryset\base.py", line 198, in __getitem__
+    queryset._cursor[key],
+  File "C:\Python27\lib\site-packages\pymongo\cursor.py", line 570, in __getitem__
+    raise IndexError("no such item for Cursor instance")
+IndexError: no such item for Cursor instance
+
+[2018-Jan-05 15:04] PowerTools 127.0.0.1 GET http /admin_purchaselist? 200 OK
+Supplier Entered into Product List
+[2018-Jan-05 15:04] PowerTools 127.0.0.1 GET http /productlist? 200 OK
+Supplier Entered into admin_purchaseinvoice
+[2018-Jan-05 15:04] PowerTools 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+[2018-Jan-05 15:05] PowerTools 127.0.0.1 GET http /tax_discount? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Jan-05 15:09] Sai Kumar 127.0.0.1 GET http /supplier_dashboard/5a432f9f316cec25b4ade95d? 200 OK
+Supplier  Entered into Purchase List
+[2018-Jan-05 15:09] Sai Kumar 127.0.0.1 GET http /admin_purchaselist? 200 OK
+Supplier Entered into admin_purchaseinvoice
+[2018-Jan-05 15:09] Sai Kumar 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+Purchase-Manager Entered into adminpurchaseinvoiceinfo
+[2018-Jan-05 15:10] Sai Kumar 127.0.0.1 GET http /adminpurchaseinvoiceinfo/5a4e16c75ba9450d89f0bbd6? 200 OK
+ Supplier Entered brands in Master Brand Setup
+[2018-Jan-05 15:51] Sai Kumar 127.0.0.1 GET http /masterbrand_edit? 200 OK
+[2018-Jan-05 15:51] Sai Kumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Supplier Entered into Product List
+[2018-Jan-05 16:14] Sai Kumar 127.0.0.1 GET http /productlist? 200 OK
+Supplier Entered into Product List
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /productlist? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/grid.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/animate.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/spacing.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/typography.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/utils.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/colors.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/badges.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/buttons.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/content-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/forms.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/images.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/info-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/invoice.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/menus.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/panel-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/response-messages.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/ribbon.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/social-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tables.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tile-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/elements/timeline.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/chat.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/files-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/login-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/todo.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/applications/mailbox.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/default.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen-demo.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/tether/js/tether.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /productdelete?type=em&docid=5a4db357316cec11bcb31458 301 MOVED PERMANENTLY
+Deleted Product sucessfully
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /productdelete/?type=em&docid=5a4db357316cec11bcb31458 302 FOUND
+Supplier Entered into Product List
+[2018-Jan-05 16:20] Sai Kumar 127.0.0.1 GET http /productlist? 200 OK
+Supplier Entered into Product List
+[2018-Jan-05 16:33] Sai Kumar 127.0.0.1 GET http /productlist? 200 OK
+[2018-Jan-05 16:33] Sai Kumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Supplier  Entered into Purchase List
+[2018-Jan-05 16:36] Sai Kumar 127.0.0.1 GET http /admin_purchaselist? 200 OK
+ Supplier Entered into Purchase Information
+[2018-Jan-05 16:36] Sai Kumar 127.0.0.1 GET http /adminpurchaseinformation/5a4f4ee65ba9450cb304b06f? 200 OK
+ Supplier Entered into Purchase Information
+[2018-Jan-05 16:37] Sai Kumar 127.0.0.1 GET http /adminpurchaseinformation/5a4e160f5ba9450cb304b064? 200 OK
+ Supplier Entered into Purchase Information
+[2018-Jan-05 16:37] Sai Kumar 127.0.0.1 GET http /adminpurchaseinformation/5a4f4ee65ba9450cb304b06f? 200 OK

@@ -1,0 +1,78 @@
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/tether/js/tether.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 200 OK
+[2018-Feb-15 15:24] saikumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Entered into useredit
+[2018-Feb-15 15:56] saikumar 127.0.0.1 GET http /signupedit? 200 OK
+[2018-Feb-15 15:56] saikumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Entered into useredit
+[2018-Feb-15 15:56] saikumar 127.0.0.1 GET http /signupedit? 200 OK
+[2018-Feb-15 15:56] saikumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Feb-15 16:13] saikumar 127.0.0.1 GET http /supplier_dashboard/5a74316a5ba9450cd428d767? 200 OK
+Entered into Bulk Products upload
+[2018-Feb-15 16:13] saikumar 127.0.0.1 GET http /bulkupload? 200 OK
+Supplier  Entered into Purchase List
+[2018-Feb-15 17:06] saikumar 127.0.0.1 GET http /admin_purchaselist? 200 OK
+Supplier Entered into admin_purchaseinvoice
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /tax_discount? 200 OK
+ Supplier Entered brands in Master Brand Setup
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /masterbrand_edit? 200 OK
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /bank_configuration? 200 OK
+Sucessfully setup header
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /image_setup? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /supplier_dashboard/5a74316a5ba9450cd428d767? 200 OK
+Supplier Entered into admin_purchaseinvoice
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+Supplier Entered into Product List
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /productlist? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Feb-15 17:07] saikumar 127.0.0.1 GET http /supplier_dashboard/5a74316a5ba9450cd428d767? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Feb-15 17:08] saikumar 127.0.0.1 GET http /supplier_dashboard/5a74316a5ba9450cd428d767? 200 OK
+[2018-Feb-15 17:08] saikumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Feb-15 17:09] saikumar 127.0.0.1 GET http /supplier_dashboard/5a74316a5ba9450cd428d767? 200 OK
+[2018-Feb-15 17:09] saikumar 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Supplier Entered into admin_purchaseinvoice
+[2018-Feb-15 17:10] saikumar 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+Supplier  Entered into Purchase List
+[2018-Feb-15 17:10] saikumar 127.0.0.1 GET http /purchase_orders? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Feb-15 17:10] saikumar 127.0.0.1 GET http /supplier_dashboard/5a74316a5ba9450cd428d767? 200 OK
+Supplier  Entered into Purchase List
+[2018-Feb-15 17:10] saikumar 127.0.0.1 GET http /admin_purchaselist? 200 OK
+Supplier Entered into admin_purchaseinvoice
+[2018-Feb-15 17:11] saikumar 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+Purchase-Manager Entered into adminpurchaseinvoiceinfo
+[2018-Feb-15 17:11] saikumar 127.0.0.1 GET http /adminpurchaseinvoiceinfo/5a743d9b5ba9450d302ac1da? 200 OK
+[2018-Feb-15 17:11] saikumar 127.0.0.1 GET http /static/css/font-awesome.min.css? 200 OK
+Sucessfully setup header
+[2018-Feb-15 17:11] saikumar 127.0.0.1 GET http /image_setup? 200 OK
+[2018-Feb-15 17:11] saikumar 127.0.0.1 GET http /bank_configuration? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Feb-15 17:12] saikumar 127.0.0.1 GET http /supplier_dashboard/5a74316a5ba9450cd428d767? 200 OK

@@ -1,0 +1,8 @@
+Entered into login
+failed to log in
+Entered into login
+success to log in
+[2018-Jan-11 10:48] Sai Kumar 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Supplier Entered into Supplier dashboard
+[2018-Jan-11 10:48] Sai Kumar 127.0.0.1 GET http /home? 302 FOUND

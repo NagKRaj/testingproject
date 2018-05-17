@@ -1,0 +1,140 @@
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/applications/mailbox.css? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/themes/components/default.css? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/tether/js/tether.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 200 OK
+[2018-Jan-09 17:15] admin 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 200 OK
+Loggedout Sucessfully
+Entered into login
+Entered into login
+Entered into login
+Entered into forgot  password
+Sent mail to reset the password
+Entered into login
+Entered into user_signup
+Entered into login
+Entered into login
+success to log in
+[2018-Jan-09 17:35] Bala  127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Dealer Entered into Dealer dashboard
+[2018-Jan-09 17:35] Bala  127.0.0.1 GET http /home? 302 FOUND
+Entered into login
+[2018-Jan-09 17:37] Bala  127.0.0.1 GET http /? 200 OK
+[2018-Jan-09 17:37] Bala  127.0.0.1 GET http /static/images/td-fav.ico? 304 NOT MODIFIED
+success to log in
+[2018-Jan-09 17:37] Marketing manager 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Market Manager Entered into Market Manager dashboard
+[2018-Jan-09 17:37] Marketing manager 127.0.0.1 GET http /home? 302 FOUND
+Entered into Marketing dashboard
+[2018-Jan-09 17:37] Marketing manager 127.0.0.1 GET http /marketing_dashboard? 200 OK
+[2018-Jan-09 17:37] Marketing manager 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 304 NOT MODIFIED
+[2018-Jan-09 17:37] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-09 17:39] Marketing manager 127.0.0.1 GET http /shoporderviewmore/5a54b0529416c90a987438eb? 200 OK
+[2018-Jan-09 17:39] Marketing manager 127.0.0.1 GET http /static/css/font-awesome.min.css? 304 NOT MODIFIED
+Entered into Price List
+[2018-Jan-09 17:39] Marketing manager 127.0.0.1 GET http /price_list? 200 OK
+Loggedout Sucessfully
+Entered into login
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-09 17:57] Sai Kumar 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Supplier Entered into Supplier dashboard
+[2018-Jan-09 17:57] Sai Kumar 127.0.0.1 GET http /home? 302 FOUND
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Market Manager Entered into Market Manager dashboard
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /home? 302 FOUND
+Entered into Marketing dashboard
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /marketing_dashboard? 200 OK
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 200 OK
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 200 OK
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 200 OK
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 200 OK
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 200 OK
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /shoporderviewmore/5a54b0529416c90a987438eb? 200 OK
+[2018-Jan-09 18:03] Marketing manager 127.0.0.1 GET http /static/css/font-awesome.min.css? 200 OK
+Entered into login
+Entered into login
+Entered into login
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-09 18:08] Bala  127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Dealer Entered into Dealer dashboard
+[2018-Jan-09 18:08] Bala  127.0.0.1 GET http /home? 302 FOUND
+Entered into Marketing dashboard
+[2018-Jan-09 18:12] Marketing manager 127.0.0.1 GET http /marketing_dashboard? 200 OK
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-09 18:13] Marketing manager 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Market Manager Entered into Market Manager dashboard
+[2018-Jan-09 18:13] Marketing manager 127.0.0.1 GET http /home? 302 FOUND
+Entered into Marketing dashboard
+[2018-Jan-09 18:13] Marketing manager 127.0.0.1 GET http /marketing_dashboard? 200 OK
+Entered into Market price setup
+[2018-Jan-09 18:13] Marketing manager 127.0.0.1 GET http /market_price_setup? 200 OK
+[2018-Jan-09 18:13] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-09 18:15] Marketing manager 127.0.0.1 GET http /shoporder_delete?type=em&docid=5a54b8229416c90a987438ef 302 FOUND
+[2018-Jan-09 18:15] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporder_delete?type=em&docid=5a54b7e09416c90a987438ed 302 FOUND
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporder_delete?type=em&docid=5a54b8009416c90a987438ee 302 FOUND
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporder_delete?type=em&docid=5a54b8bc9416c91be0df09cf 302 FOUND
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporder_delete?type=em&docid=5a54b0529416c90a987438eb 302 FOUND
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporder_delete?type=em&docid=5a54b1659416c90a987438ec 302 FOUND
+[2018-Jan-09 18:16] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+Entered into login
+[2018-Jan-09 18:23] Marketing manager 127.0.0.1 GET http /? 200 OK
+success to log in
+[2018-Jan-09 18:23] Bala  127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Dealer Entered into Dealer dashboard
+[2018-Jan-09 18:23] Bala  127.0.0.1 GET http /home? 302 FOUND
+[2018-Jan-09 18:25] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+Entered into Invoice History
+[2018-Jan-09 18:27] Marketing manager 127.0.0.1 GET http /invoicehistory? 200 OK
+[2018-Jan-09 18:27] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+Shop Downloaded successfully!
+[2018-Jan-09 18:27] Marketing manager 127.0.0.1 GET http /shop_download.csv? 200 OK

@@ -1,0 +1,262 @@
+Entered into login
+success to log in
+[2018-Jan-08 10:44] admin 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Admin Entered into Admin dashboard
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /home? 302 FOUND
+Entered into dashboard
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /dashboard? 200 OK
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/animate.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/grid.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/spacing.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/typography.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/utils.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/colors.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/badges.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/buttons.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/content-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/forms.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/images.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/info-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/invoice.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/menus.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/panel-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/response-messages.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/ribbon.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/social-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/tables.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/tile-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/elements/timeline.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/snippets/chat.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/snippets/login-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/snippets/files-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/snippets/todo.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/applications/mailbox.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/themes/components/default.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/tether/js/tether.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 304 NOT MODIFIED
+Entered into userlist
+Sucessfully Created new in Userlist
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /userlist? 200 OK
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/js/purchase-setup.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 304 NOT MODIFIED
+[2018-Jan-08 10:44] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 304 NOT MODIFIED
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-08 10:44] saikumar 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Accountant Entered into Accountant dashboard
+[2018-Jan-08 10:44] saikumar 127.0.0.1 GET http /home? 302 FOUND
+Entered into account dashboard
+[2018-Jan-08 10:45] saikumar 127.0.0.1 GET http /account_dashboard? 200 OK
+[2018-Jan-08 10:45] saikumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 304 NOT MODIFIED
+[2018-Jan-08 10:45] saikumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 304 NOT MODIFIED
+Entered into login
+[2018-Jan-08 12:31] saikumar 127.0.0.1 GET http /? 200 OK
+success to log in
+[2018-Jan-08 12:31] Warehouse manager 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+WH-Manager Entered into WH-Manager dashboard
+[2018-Jan-08 12:31] Warehouse manager 127.0.0.1 GET http /home? 302 FOUND
+Entered into warehouse dashboard
+[2018-Jan-08 12:31] Warehouse manager 127.0.0.1 GET http /warehouse_dashboard? 200 OK
+Entered into Warehouse Packing
+[2018-Jan-08 12:31] Warehouse manager 127.0.0.1 GET http /whpack? 200 OK
+Entered into Warehouse Pack Data
+[2018-Jan-08 12:32] Warehouse manager 127.0.0.1 POST http /whpackdata? 200 OK
+[2018-Jan-08 12:32] Warehouse manager 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css.map? 304 NOT MODIFIED
+Entered into login
+success to log in
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Purchase-Manager Entered into Purchase-Manager dashboard
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 GET http /home? 302 FOUND
+Entered into Purchase manager dashboard
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 GET http /purchase_dashboard? 200 OK
+Purchase manager Entered into purchaselist
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 GET http /admin_purchaselist? 200 OK
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 GET http /static/assets/widgets/chosen/chosen-demo.js? 304 NOT MODIFIED
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.js? 304 NOT MODIFIED
+Entered into Purchase Information
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 GET http /adminpurchaseinformation/5a33cb479416c91fd4ce671f? 200 OK
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 GET http /static/css/font-awesome.min.css? 304 NOT MODIFIED
+Entered into purchase order 
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 GET http /purchase_order? 200 OK
+Entered into purchase order Viewmore
+[2018-Jan-08 18:19] Purchase manager 127.0.0.1 POST http /purchaseorder_viewmore? 200 OK
+Purchase manager Entered into purchaselist
+[2018-Jan-08 18:20] Purchase manager 127.0.0.1 GET http /admin_purchaselist? 200 OK
+Entered into Purchase Information
+[2018-Jan-08 18:20] Purchase manager 127.0.0.1 GET http /adminpurchaseinformation/5a33cb479416c91fd4ce671f? 200 OK
+Entered into Purchase Information
+[2018-Jan-08 18:21] Purchase manager 127.0.0.1 GET http /adminpurchaseinformation/5a33cb479416c91fd4ce671f? 200 OK
+Purchase-Manager Entered into admin_purchaseinvoice
+[2018-Jan-08 18:21] Purchase manager 127.0.0.1 GET http /admin_purchaseinvoice? 200 OK
+Purchase-Manager Entered into adminpurchaseinvoiceinfo
+[2018-Jan-08 18:21] Purchase manager 127.0.0.1 GET http /adminpurchaseinvoiceinfo/5a41f9265ba9450ce91dcc77? 200 OK
+Entered into Purchase Information
+[2018-Jan-08 18:23] Purchase manager 127.0.0.1 GET http /adminpurchaseinformation/5a33cb479416c91fd4ce671f? 200 OK
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-08 18:24] Warehouse manager 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+WH-Manager Entered into WH-Manager dashboard
+[2018-Jan-08 18:24] Warehouse manager 127.0.0.1 GET http /home? 302 FOUND
+Entered into warehouse dashboard
+[2018-Jan-08 18:24] Warehouse manager 127.0.0.1 GET http /warehouse_dashboard? 200 OK
+Entered into Customer Report
+[2018-Jan-08 18:24] Warehouse manager 127.0.0.1 GET http /whpurchase_orderreport? 200 OK
+[2018-Jan-08 18:24] Warehouse manager 127.0.0.1 POST http /whpurchase_orderget? 200 OK
+[2018-Jan-08 18:24] Warehouse manager 127.0.0.1 GET http /whpurchase_orderviewmore/PO040120180001? 200 OK
+[2018-Jan-08 18:25] Warehouse manager 127.0.0.1 GET http /whpurchase_orderviewmore/PO040120180001? 200 OK
+Entered into Customer Report
+[2018-Jan-08 18:26] Warehouse manager 127.0.0.1 GET http /whinvoice_orderreport? 200 OK
+Entered into Customer Report
+[2018-Jan-08 18:26] Warehouse manager 127.0.0.1 POST http /whpurchase_invoiceget? 200 OK
+[2018-Jan-08 18:26] Warehouse manager 127.0.0.1 POST http /whpurchase_invoiceget? 200 OK
+[2018-Jan-08 18:26] Warehouse manager 127.0.0.1 GET http /whinvoice_orderviewmore/POIN040120180001? 200 OK
+[2018-Jan-08 18:26] Warehouse manager 127.0.0.1 GET http /whcustomer_report? 200 OK
+[2018-Jan-08 18:26] Warehouse manager 127.0.0.1 POST http /whcustomerdata? 200 OK
+[2018-Jan-08 18:26] Warehouse manager 127.0.0.1 GET http /wh-customer_orderviewmore/SPO040120180001? 200 OK
+Entered into Customer Report
+[2018-Jan-08 18:27] Warehouse manager 127.0.0.1 GET http /whcustomer_report? 200 OK
+Entered into Customer Report
+[2018-Jan-08 18:27] Warehouse manager 127.0.0.1 GET http /whorder_invoice? 200 OK
+Entered into Customer data
+[2018-Jan-08 18:27] Warehouse manager 127.0.0.1 POST http /whorder_invoicedata? 200 OK
+[2018-Jan-08 18:27] Warehouse manager 127.0.0.1 GET http /whcustomer_invoiceorderviewmore/SPO040120180001? 200 OK
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-08 18:27] Marketing manager 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Market Manager Entered into Market Manager dashboard
+[2018-Jan-08 18:27] Marketing manager 127.0.0.1 GET http /home? 302 FOUND
+Entered into Marketing dashboard
+[2018-Jan-08 18:27] Marketing manager 127.0.0.1 GET http /marketing_dashboard? 200 OK
+[2018-Jan-08 18:28] Marketing manager 127.0.0.1 GET http /shoporderlist? 200 OK
+[2018-Jan-08 18:28] Marketing manager 127.0.0.1 GET http /shoporderviewmore/5a4dd3f55ba9450d0cbee86f? 200 OK
+[2018-Jan-08 18:30] Marketing manager 127.0.0.1 GET http /shoporderviewmore/5a4dd3f55ba9450d0cbee86f? 200 OK
+[2018-Jan-08 18:30] Marketing manager 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-08 18:30] saikumar 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Accountant Entered into Accountant dashboard
+[2018-Jan-08 18:30] saikumar 127.0.0.1 GET http /home? 302 FOUND
+Entered into account dashboard
+[2018-Jan-08 18:30] saikumar 127.0.0.1 GET http /account_dashboard? 200 OK
+[2018-Jan-08 18:30] saikumar 127.0.0.1 GET http /shoporderinvoice? 200 OK
+[2018-Jan-08 18:30] saikumar 127.0.0.1 GET http /shoporderviewmore/5a533f1cdc649e319cd3a6c6? 200 OK
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-08 18:31] Bala  127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Dealer Entered into Dealer dashboard
+[2018-Jan-08 18:32] Bala  127.0.0.1 GET http /home? 302 FOUND
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-08 18:40] Sai Kumar 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Supplier Entered into Supplier dashboard
+[2018-Jan-08 18:40] Sai Kumar 127.0.0.1 GET http /home? 302 FOUND
+Loggedout Sucessfully
+Entered into login

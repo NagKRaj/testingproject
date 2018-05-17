@@ -1,0 +1,554 @@
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 304 NOT MODIFIED
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 304 NOT MODIFIED
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 304 NOT MODIFIED
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 304 NOT MODIFIED
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 304 NOT MODIFIED
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 304 NOT MODIFIED
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 304 NOT MODIFIED
+[2018-Jan-22 17:34] admin 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 304 NOT MODIFIED
+Entered into Dealer details 
+[2018-Jan-22 17:45] admin 127.0.0.1 GET http /dealer_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /dealer_details? 200 OK
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/grid.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/animate.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/spacing.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/typography.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/utils.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/colors.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/badges.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/buttons.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/content-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/forms.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/images.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/info-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/invoice.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/menus.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/panel-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/response-messages.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/ribbon.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/social-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/tables.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/tile-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/elements/timeline.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/snippets/chat.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/snippets/files-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/snippets/login-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/snippets/todo.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/applications/mailbox.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/themes/components/default.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/tether/js/tether.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 304 NOT MODIFIED
+[2018-Jan-22 17:46] admin 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 304 NOT MODIFIED
+Loggedout Sucessfully
+Entered into login
+Entered into user_signup
+Entered into user_signup
+ failed to signup because radhika@goldensuntechnology.com already existed!
+Entered into user_signup
+Entered into user_signup
+Sucessfully signup
+Entered into login
+Entered into user_signup
+Entered into user_signup
+Sucessfully signup
+Entered into login
+Entered into login
+success to log in
+[2018-Jan-22 18:31] admin 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Admin Entered into Admin dashboard
+[2018-Jan-22 18:31] admin 127.0.0.1 GET http /home? 302 FOUND
+Entered into dashboard
+[2018-Jan-22 18:31] admin 127.0.0.1 GET http /dashboard? 200 OK
+Entered into Dealer details 
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /dealer_details? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Python27\lib\site-packages\flask_login.py", line 792, in decorated_view
+    return func(*args, **kwargs)
+  File "app.py", line 709, in dealer_details
+    return render_template('dealer-details.html',dealer=dealer)
+  File "C:\Python27\lib\site-packages\flask\templating.py", line 134, in render_template
+    context, ctx.app)
+  File "C:\Python27\lib\site-packages\flask\templating.py", line 116, in _render
+    rv = template.render(context)
+  File "C:\Python27\lib\site-packages\jinja2\environment.py", line 1008, in render
+    return self.environment.handle_exception(exc_info, True)
+  File "C:\Python27\lib\site-packages\jinja2\environment.py", line 780, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\testproject-local\templates\dealer-details.html", line 64, in top-level template code
+    <td> {{ em.registered_ondate.strftime('%Y-%m-%d') }} </td>
+  File "C:\Python27\lib\site-packages\jinja2\environment.py", line 430, in getattr
+    return getattr(obj, attribute)
+UndefinedError: 'models.UserSignup object' has no attribute 'registered_ondate'
+
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /dealer_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /dealer_details? 200 OK
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/grid.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/animate.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/spacing.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/typography.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/utils.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/colors.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/buttons.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/badges.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/content-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/forms.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/images.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/info-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/invoice.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/menus.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/panel-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/response-messages.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/ribbon.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/social-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/tile-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/tables.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/elements/timeline.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/snippets/files-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/snippets/chat.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/snippets/login-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/snippets/todo.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/applications/mailbox.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/themes/components/default.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/tether/js/tether.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 304 NOT MODIFIED
+[2018-Jan-22 18:33] admin 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 304 NOT MODIFIED
+Entered into Dealer details 
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /dealer_details? 200 OK
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/animate.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/grid.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/spacing.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/typography.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/utils.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/colors.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/badges.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/buttons.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/content-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/forms.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/images.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/info-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/invoice.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/menus.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/panel-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/response-messages.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/ribbon.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/social-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/tables.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/tile-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/timeline.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/chat.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/files-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/login-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/todo.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/applications/mailbox.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/components/default.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/tether/js/tether.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 304 NOT MODIFIED
+Entered into Dealer details 
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /dealer_details? 200 OK
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/grid.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/animate.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/spacing.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/typography.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/utils.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/colors.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/badges.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/buttons.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/content-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/forms.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/images.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/info-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/invoice.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/menus.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/panel-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/response-messages.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/ribbon.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/social-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/tables.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/tile-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/elements/timeline.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/chat.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/files-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/login-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/todo.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/applications/mailbox.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/components/default.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/tether/js/tether.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 304 NOT MODIFIED
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 304 NOT MODIFIED
+Entered into Supplier details 
+[2018-Jan-22 18:35] admin 127.0.0.1 GET http /supplier_details? 200 OK
+Admin Entered into purchaselist
+[2018-Jan-22 18:36] admin 127.0.0.1 GET http /admin_purchaselist? 200 OK

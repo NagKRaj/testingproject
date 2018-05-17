@@ -1,0 +1,292 @@
+Entered into login
+success to log in
+[2018-Jan-20 11:02] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+[2018-Jan-20 11:02] anu 127.0.0.1 GET http /home? 200 OK
+[2018-Jan-20 11:02] anu 127.0.0.1 GET http /js/backto_Top.js? 200 OK
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-20 11:03] admin 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Admin Entered into Admin dashboard
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /home? 302 FOUND
+Entered into dashboard
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /dashboard? 200 OK
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/grid.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/animate.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/spacing.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/typography.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/buttons.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/badges.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/forms.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/colors.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/utils.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/images.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/info-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/content-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/invoice.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/menus.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/panel-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/response-messages.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/ribbon.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/tables.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/timeline.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/social-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/elements/tile-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/themes/components/default.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/snippets/chat.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/snippets/files-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/snippets/login-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/applications/mailbox.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/snippets/todo.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/tether/js/tether.js? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 304 NOT MODIFIED
+[2018-Jan-20 11:03] admin 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 304 NOT MODIFIED
+Entered into Dealer details 
+[2018-Jan-20 11:04] admin 127.0.0.1 GET http /dealer_details? 200 OK
+[2018-Jan-20 11:04] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 304 NOT MODIFIED
+[2018-Jan-20 11:04] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 304 NOT MODIFIED
+[2018-Jan-20 11:04] admin 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-20 11:05] admin 127.0.0.1 GET http /actives/anuuppalapati90@gmail.com? 200 OK
+[2018-Jan-20 11:05] admin 127.0.0.1 GET http /favicon.ico? 200 OK
+Entered into dashboard
+[2018-Jan-20 11:05] admin 127.0.0.1 GET http /dashboard? 200 OK
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-20 11:05] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Dealer Entered into Dealer dashboard
+[2018-Jan-20 11:05] anu 127.0.0.1 GET http /home? 302 FOUND
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-20 15:55] admin 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Admin Entered into Admin dashboard
+[2018-Jan-20 15:55] admin 127.0.0.1 GET http /home? 302 FOUND
+Entered into dashboard
+[2018-Jan-20 15:55] admin 127.0.0.1 GET http /dashboard? 200 OK
+Admin Entered into productlist
+[2018-Jan-20 15:55] admin 127.0.0.1 GET http /productlist? 200 OK
+[2018-Jan-20 15:55] admin 127.0.0.1 GET http /static/assets/widgets/chosen/chosen-demo.js? 304 NOT MODIFIED
+[2018-Jan-20 15:55] admin 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.js? 304 NOT MODIFIED
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-20 16:18] anu 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Dealer Entered into Dealer dashboard
+[2018-Jan-20 16:18] anu 127.0.0.1 GET http /home? 302 FOUND
+Loggedout Sucessfully
+Entered into login
+success to log in
+[2018-Jan-20 16:41] admin 127.0.0.1 POST http /? 302 FOUND
+Entered into home
+Admin Entered into Admin dashboard
+[2018-Jan-20 16:41] admin 127.0.0.1 GET http /home? 302 FOUND
+Entered into dashboard
+[2018-Jan-20 16:41] admin 127.0.0.1 GET http /dashboard? 200 OK
+Entered into dashboard
+[2018-Jan-20 16:49] admin 127.0.0.1 GET http /dashboard? 200 OK
+[2018-Jan-20 16:49] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 16:49] admin 127.0.0.1 GET http /service_center_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:23] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:23] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:26] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:26] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:29] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:29] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+[2018-Jan-20 17:30] admin 127.0.0.1 GET http /serviceactive/5a6323c0dc649e089884c03e? 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Python27\lib\site-packages\flask_login.py", line 792, in decorated_view
+    return func(*args, **kwargs)
+  File "app.py", line 619, in serviceactive
+    userstatus=Reg_Dealer.objects.get(user_id=userstatus.user_id)
+  File "C:\Python27\lib\site-packages\mongoengine\queryset\base.py", line 287, in get
+    raise queryset._document.MultipleObjectsReturned(message)
+MultipleObjectsReturned: 2 items returned, instead of 1
+
+[2018-Jan-20 17:30] admin 127.0.0.1 GET http /serviceactive/5a6323c0dc649e089884c03e? 200 OK
+[2018-Jan-20 17:31] admin 127.0.0.1 GET http /serviceactive/5a6323c0dc649e089884c03e? 302 FOUND
+Entered into Dealer details 
+[2018-Jan-20 17:31] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:31] admin 127.0.0.1 GET http /serviceactive/5a6323c0dc649e089884c03e? 302 FOUND
+Entered into Dealer details 
+[2018-Jan-20 17:31] admin 127.0.0.1 GET http /service_center_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:33] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:33] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+[2018-Jan-20 17:33] admin 127.0.0.1 GET http /serviceactive/5a6323c0dc649e089884c03e? 302 FOUND
+Entered into Dealer details 
+[2018-Jan-20 17:33] admin 127.0.0.1 GET http /service_center_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:34] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:34] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+[2018-Jan-20 17:34] admin 127.0.0.1 GET http /serviceactive/5a6323c0dc649e089884c03e? 302 FOUND
+Entered into Dealer details 
+[2018-Jan-20 17:34] admin 127.0.0.1 GET http /service_center_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:37] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:37] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Entered into Dealer Viewmore 
+[2018-Jan-20 17:37] admin 127.0.0.1 GET http /serviceviewmore/5a6323c0dc649e089884c03e? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:37] admin 127.0.0.1 GET http /dealer_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:37] admin 127.0.0.1 GET http /service_center_details? 200 OK
+Entered into Dealer Viewmore 
+[2018-Jan-20 17:37] admin 127.0.0.1 GET http /serviceviewmore/5a6323c0dc649e089884c03e? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:40] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:40] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+Entered into Dealer Viewmore 
+[2018-Jan-20 17:40] admin 127.0.0.1 GET http /serviceviewmore/5a6323c0dc649e089884c03e? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:40] admin 127.0.0.1 GET http /service_center_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:41] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:41] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+[2018-Jan-20 17:42] admin 127.0.0.1 GET http /service_delete?type=em&docid=5a6323c0dc649e089884c03e 301 MOVED PERMANENTLY
+Entered into user_delete
+Sucessfully Deleted  em  in service
+[2018-Jan-20 17:42] admin 127.0.0.1 GET http /service_delete/?type=em&docid=5a6323c0dc649e089884c03e 5xx INTERNAL SERVER ERROR
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Python27\lib\site-packages\flask_login.py", line 792, in decorated_view
+    return func(*args, **kwargs)
+  File "app.py", line 639, in service_delete
+    return redirect(url_for('service_center'))
+  File "C:\Python27\lib\site-packages\flask\helpers.py", line 333, in url_for
+    return appctx.app.handle_url_build_error(error, endpoint, values)
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1805, in handle_url_build_error
+    reraise(exc_type, exc_value, tb)
+  File "C:\Python27\lib\site-packages\flask\helpers.py", line 323, in url_for
+    force_external=external)
+  File "C:\Python27\lib\site-packages\werkzeug\routing.py", line 1768, in build
+    raise BuildError(endpoint, values, method, self)
+BuildError: Could not build url for endpoint 'service_center'. Did you mean 'service_delete' instead?
+
+[2018-Jan-20 17:42] admin 127.0.0.1 GET http /service_delete/?type=em&docid=5a6323c0dc649e089884c03e 200 OK
+Entered into user_delete
+Sucessfully Deleted  em  in service
+[2018-Jan-20 17:43] admin 127.0.0.1 GET http /service_delete/?type=em&docid=5a6323c0dc649e089884c03e 302 FOUND
+Entered into Dealer details 
+[2018-Jan-20 17:43] admin 127.0.0.1 GET http /service_center_details? 200 OK
+Entered into user_delete
+Sucessfully Deleted  em  in service
+[2018-Jan-20 17:43] admin 127.0.0.1 GET http /service_delete/?type=em&docid=5a6323c0dc649e089884c03e 302 FOUND
+Entered into Dealer details 
+[2018-Jan-20 17:43] admin 127.0.0.1 GET http /service_center_details? 200 OK
+Entered into Dealer details 
+[2018-Jan-20 17:44] admin 127.0.0.1 GET http /service_center_details? 200 OK
+[2018-Jan-20 17:44] admin 127.0.0.1 GET http /static/assets/images/icons/favicon.ico? 200 OK
+[2018-Jan-20 17:44] admin 127.0.0.1 GET http /service_delete?type=i&docid=5a6323c0dc649e089884c03e 301 MOVED PERMANENTLY
+Entered into user_delete
+Sucessfully Deleted  i  in service
+[2018-Jan-20 17:44] admin 127.0.0.1 GET http /service_delete/?type=i&docid=5a6323c0dc649e089884c03e 302 FOUND
+Entered into Dealer details 
+[2018-Jan-20 17:44] admin 127.0.0.1 GET http /service_center_details? 200 OK

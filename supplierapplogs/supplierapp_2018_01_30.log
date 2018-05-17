@@ -1,0 +1,152 @@
+Supplier Entered into Supplier Dashboard
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /supplier_dashboard/5a432f9f316cec25b4ade95d? 200 OK
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/animate.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/grid.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/page-transitions.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/backgrounds.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/css/bootstrap.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/boilerplate.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/typography.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/spacing.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/buttons.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/utils.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/badges.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/colors.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/content-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/dashboard-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/forms.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/images.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/info-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/invoice.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/loading-indicators.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/menus.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/panel-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/response-messages.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/responsive-tables.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/ribbon.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/social-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tables.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/tile-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/elements/timeline.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/frontend-elements/footer.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/icons/spinnericon/spinnericon.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/accordion-ui/accordion.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/calendar/calendar.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/justgage/justgage.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/carousel/carousel.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/morris/morris.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/xcharts/xcharts.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/colorpicker/colorpicker.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datepicker-ui/datepicker.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/daterangepicker/daterangepicker.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropdown/dropdown.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dropzone/dropzone.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/file-input/fileinput.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/ionrangeslider/ionrangeslider.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jcrop/jcrop.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/jgrowl-notifications/jgrowl.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/loading-bar/loadingbar.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/maps/vector-maps/vectormaps.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/markdown/markdown.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/modal/modal.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-select/multiselect.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/multi-upload/fileupload.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/nestable/nestable.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/popover/popover.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/noty-notifications/noty.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/pretty-photo/prettyphoto.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/range-slider/rangeslider.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slider-ui/slider.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/summernote-wysiwyg/summernote-wysiwyg.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tabs-ui/tabs.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/timepicker/timepicker.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tocify/tocify.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/tooltip/tooltip.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/touchspin/touchspin.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/uniform/uniform.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/wizard/wizard.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/xeditable/xeditable.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/chat.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/files-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/login-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/notification-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/progress-box.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/todo.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/user-profile.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/snippets/mobile-navigation.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/applications/mailbox.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/color-schemes/default.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/default.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/themes/components/border-radius.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/responsive-elements.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/helpers/admin-responsive.css? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-core.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-core.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-widget.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-mouse.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-ui-position.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/modernizr.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/js-core/jquery-cookie.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/dialog/dialog-demo.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/sparklines/sparklines.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/sparklines/sparklines-demo.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/tether/js/tether.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/bootstrap/js/bootstrap.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/superclick/superclick.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/progressbar/progressbar.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/input-switch/inputswitch-alt.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slidebars/slidebars-demo.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/slimscroll/slimscroll.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/charts/piegage/piegage-demo.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/screenfull/screenfull.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/content-box/contentbox.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/overlay/overlay.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/js-init/widgets-init.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/themes/admin/layout.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/theme-switcher/themeswitcher.js? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/icons/fontawesome/fontawesome-webfont.woff?v=4.0.3 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/logo-admin.png? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/image-resources/log-small.png? 304 NOT MODIFIED
+[2018-Jan-30 11:09] Sai Kumar 127.0.0.1 GET http /static/assets/icons/linecons/linecons.woff?28801370 304 NOT MODIFIED
+Supplier Entered into Product List
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /productlist? 200 OK
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable.js? 200 OK
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen.js? 200 OK
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-tabletools.js? 200 OK
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/chosen/chosen-demo.js? 200 OK
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /static/assets/widgets/datatable/datatable-bootstrap.js? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /supplier_dashboard/5a432f9f316cec25b4ade95d? 200 OK
+Supplier Entered into Product List
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /process_product_list? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /supplier_dashboard/5a432f9f316cec25b4ade95d? 200 OK
+Supplier Entered into Product List
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /approved_product_list? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /supplier_dashboard/5a432f9f316cec25b4ade95d? 200 OK
+Supplier  Entered into Purchase List
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /purchase_orders? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /supplier_dashboard/5a432f9f316cec25b4ade95d? 200 OK
+Supplier Entered into admin_purchaseinvoice
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /purchase_invoice_list? 200 OK
+Supplier Entered into Supplier Dashboard
+[2018-Jan-30 11:10] Sai Kumar 127.0.0.1 GET http /supplier_dashboard/5a432f9f316cec25b4ade95d? 200 OK
